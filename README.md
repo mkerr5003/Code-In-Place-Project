@@ -4,6 +4,11 @@ A maze game built with Python and Tkinter for Code in Place 2026.
 
 The game has three levels: a 1D maze, a 2D maze, and a 3D maze on the outside of a cube. Navigating off one edge of the grid moves the player to an adjacent face, rotating the view to match.
 
+## Screenshots
+
+![Player view of Level 3](images/screenshot_player_view.png)
+![3D cube showing front, top and right faces](images/cube_3faces.png)
+
 
 ## Controls
 
