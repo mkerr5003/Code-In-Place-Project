@@ -6,8 +6,7 @@ The game has three levels: a 1D maze, a 2D maze, and a 3D maze on the outside of
 
 ## Screenshots
 
-![Player view of Level 3](images/screenshot_player_view.png)
-![3D cube showing front, top and right faces](images/cube_3faces.png)
+<img src="images/screenshot_player_view.png" width="48%"> <img src="images/cube_3faces.png" width="48%">
 
 
 ## Controls
